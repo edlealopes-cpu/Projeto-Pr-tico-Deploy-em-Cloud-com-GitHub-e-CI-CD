@@ -38,5 +38,6 @@ A aplicação está publicada na plataforma Render.
 O repositório está integrado ao GitHub. As alterações realizadas no projeto são versionadas e armazenadas no repositório remoto.
 
 ## Autor
+Atualização realizada para atividade acadêmica.
 
 Lea Maria
